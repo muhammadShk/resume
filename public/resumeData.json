@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"Muhammad Subaiyal Sheikh",
+    "occupation":"Full Stack Engineer",
+    "description":"Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"My name is Subaiyal Sheikh and I am a Bay Area based Full Stack Engineer. Previous experience in shared transportation and Fintech industry. An agile learner with a passion for building dynamic Web Applications.",
+    "contactmessage":"looking to build the next best thing on the web ? reach out",
+    "email": "subaiyalshk@gmail.com",
+    "phone": "571-287-3419",
+    "address":{
+      "street":"2349 Sawyer Ct",
+      "city":"Santa Clara",
+      "state":"CA",
+      "zip": "95054"
+    },
+    "website": "http://www.subaiyal.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/Subaiyalshk/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muhammadshk/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/subaiyalshk",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/muhammadShk",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Coding Dojo",
+        "degree":"Full Stack Web Development",
+        "graduated":"July 2020",
+        "description":"1000+ hours of programming. Aquired the skills to build full stack apps In three languages (Java, Python, Javascript). Earned 'Black Belt', Coding Dojo's distinguished and highest level of knowledge achievement."
+      },
+      {
+        "school":"Simon Fraser University",
+        "degree":"Bsc Mechatronic Systems Engineering",
+        "graduated":"Currently on an academic break",
+        "description":"During my time in University I worked on a home automation and autoleveling drone project. Also was actively running a non-profit organization called SFU Blockchain."
+      }
+    ],
+    "work":[
+      {
+        "company":"The Hertz Corp",
+        "title":"Sales Representative",
+        "years":"September 2019 - Feburary 2020",
+        "description":"Introduced Hertz Home Delivery, a program for customers to conveniently buy cars from home, streamlined this process. Delivered excellent customers services to achieve on average, 30 sales per month often as a result of referrals from previous customers."
+      },
+      {
+        "company":"SFU Blockchain",
+        "title":"Director of External Relations",
+        "years":"April 2018 - February 2019",
+        "description":"Through cold calling and networking events acquired sponsorship that facilitated production of “Filter Through the Noise” by Helios Protocol and “Blockchain 101” by 7 Gate Ventures, SFSS and Gena Lab"
+      },
+      {
+        "company":"Ecomobix",
+        "title":"Fleet Technician",
+        "years":"October 2017 - June 2018",
+        "description":"A startup in the fast growing shared mobility service market and was the only fully end-to-end platform for car sharing, ride sharing and smarter mobility. A key team leader of the Fleet Team, lead strategy planning, coordination, and operations to successfully relocate, refuel and diagnose over 2000 Evo Cars (a free floating car Share program) across British Columbia, Canada."
+      }
+    ],
+    "skills":[
+      {
+        "name": "[ Javascript ] Mongo + Express + React + Node",
+        "level":"60%"
+      },
+      {
+        "name":"[ Python ] Django",
+        "level":"75%"
+      },
+      {
+        "name":"[ Java ] Springboot",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Vanilla Js",
+        "level":"50%"
+      },
+      {
+        "name":"Prototype/ wireframing",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Print Point",
+        "category":"A dynamic CRM style website I built for a printing press based in Dallas, TX",
+        "image":"printpoint.gif",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
